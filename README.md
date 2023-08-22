@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglas1997silva&show_icons=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=douglas1997silva&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 ### Tcnologia que eu uso no meu dia 
 
 <div style=" display: inline_block"><br/>
