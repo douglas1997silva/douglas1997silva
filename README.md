@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-oliveira-625064271/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglas1997silva&show_icons=true&theme=radical)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=douglas1997silva&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
