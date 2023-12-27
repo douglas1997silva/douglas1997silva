@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-oliveira-625064271/)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=douglas1997silva&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=douglas1997silva&theme=bear&background=000&border=30A3DC&dates=FFF)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
